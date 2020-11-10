@@ -8,13 +8,9 @@ This is my react developer portfolio. Please visit the site below, feel free to 
 * [Questions](#questions)
 
 
-## Link
-Checkout out my site!
-https://ortizjavier10.github.io/react-portfolio/
-
 
 ## Screenshot
-<img src="./src/assets/developer portfolio react.JPG" >
+
 
 
 .
